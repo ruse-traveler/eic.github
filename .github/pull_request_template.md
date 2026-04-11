@@ -1,17 +1,18 @@
-### Briefly, what does this PR introduce?
+### Briefly, what does this PR introduce? Please link to any relevant presentations or discussions.
 
+### What is the urgency of this PR?
+- [ ] High
+- [ ] Medium
+- [ ] Low
 
 ### What kind of change does this PR introduce?
 - [ ] Bug fix (issue #__)
 - [ ] New feature (issue #__)
-- [ ] Documentation update
-- [ ] Other: __
+- [ ] Optimization (issue #__)
+- [ ] Updated documentation
+- [ ] other: __
 
-### Please check if this PR fulfills the following:
-- [ ] Tests for the changes have been added
-- [ ] Documentation has been added / updated
-- [ ] Changes have been communicated to collaborators
-
-### Does this PR introduce breaking changes? What changes might users need to make to their code?
-
-### Does this PR change default behavior?
+### Please check if any of the following apply
+- [ ] This PR introduces breaking changes. Please describe changes users need to make below.
+- [ ] This PR changes default behavior. Please describe changes below.
+- [ ] AI was used in preparing this PR. Please describe usage below.
